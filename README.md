@@ -3,7 +3,6 @@
 [![Current Release](https://img.shields.io/github/release/jkroepke/helm-release-size-analyzer.svg?logo=github)](https://github.com/jkroepke/helm-release-size-analyzer/releases/latest)
 [![GitHub Repo stars](https://img.shields.io/github/stars/jkroepke/helm-release-size-analyzer?style=flat&logo=github)](https://github.com/jkroepke/helm-release-size-analyzer/stargazers)
 [![GitHub all releases](https://img.shields.io/github/downloads/jkroepke/helm-release-size-analyzer/total?logo=github)](https://github.com/jkroepke/helm-release-size-analyzer/releases)
-[![Go Report Card](https://goreportcard.com/badge/github.com/jkroepke/helm-release-size-analyzer)](https://goreportcard.com/report/github.com/jkroepke/helm-release-size-analyzer)
 [![codecov](https://codecov.io/gh/jkroepke/helm-release-size-analyzer/graph/badge.svg)](https://codecov.io/gh/jkroepke/helm-release-size-analyzer)
 
 # helm-release-size-analyzer
