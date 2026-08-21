@@ -190,7 +190,7 @@ func finishProperty(
 	}
 
 	property := measuredProperty{
-		Property:   Property{Name: name},
+		Name:       name,
 		valueStart: valueStart,
 		valueEnd:   valueEnd,
 	}
